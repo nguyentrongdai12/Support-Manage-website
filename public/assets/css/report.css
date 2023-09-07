@@ -1,0 +1,17 @@
+@page {
+    size: a4 landscape; 
+    margin: 1em 4em 4em 1em;
+    padding: 0;
+  }
+body { 
+  margin: 2em 2em 2em 1em;
+ }
+.vertical{
+  vertical-align: middle !important;
+}
+.task-detail>li{
+  margin-left: 10px;
+}
+.task-detail>li>p{
+  margin:0;
+}
